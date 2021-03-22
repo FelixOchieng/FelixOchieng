@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felix Oduor
+- 👋 Hi, I’m Felix Ochieng Oduor
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
