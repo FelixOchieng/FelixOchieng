@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix Ochieng Oduor
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently doing projects in Laravel and NodeJS
+- 🌱 I’m currently doing projects in Laravel,NodeJS, HTML, CSS, Javascript, Vue Js and JQuery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
